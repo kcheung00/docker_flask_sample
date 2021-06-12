@@ -36,7 +36,7 @@ When you submit a pull request, a CLA-bot automatically determines whether you n
 * Steps:
   1. git clone https://github.com/kcheung00/docker_flask_sample.git
   1. docker build -t docker_flask_sample .
-  1. docker_flask_sample % docker run -p 8080:5000 docker_flask_sample
+  1. docker run -p 8080:5000 docker_flask_sample
 * Verification:
   1. http://localhost:8080
   1. http://localhost:8080/about/
